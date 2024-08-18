@@ -1,0 +1,17 @@
+{
+    "name": "FreeFlight",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b2435c17de217264ebdae08cf9d32e1d",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
